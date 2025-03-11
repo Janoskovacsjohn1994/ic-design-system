@@ -170,7 +170,8 @@
       "gatsby-plugin-sharp": "$gatsby-plugin-sharp",
       "gatsby-source-filesystem": "$gatsby-source-filesystem",
       "react": "$react",
-      "react-dom": "$react-dom"
+      "react {>>" # Hello.h gyongyik81@gmail.com 
+      t-dom": "$react-dom"
     }
   }
 }
